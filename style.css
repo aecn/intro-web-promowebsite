@@ -1,0 +1,108 @@
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+} 
+#mainContainer {
+ height: 100%
+ margin-top: 0px;
+ padding: 0px;
+ background-color: #FEF3EC;
+}
+
+#header {
+ height: 400px;
+ background-image: url("Images/positions.png");
+ background-size: cover;
+ background-position: center;
+}
+
+#text {
+  margin-left: 350px;
+  margin-right: 100px;
+}
+
+h1 {
+ margin-left: 50px;
+ font-family: Helvetica, sans-serif;
+ color: #fff;
+ margin-top: 20px;
+}
+
+h2 {
+  margin-left: 250px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: #557D5F;
+  text-decoration: underline;
+}
+
+h3 {
+  margin-left: 50px;
+  font-family: Helvetica, sans-serif;
+  color: #fff;
+}
+
+h4 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: #557D5F;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  color: #729167;
+}
+
+#title {
+  text-align: center;
+
+}
+
+#gallery {
+  text-align: center;
+  justify-content: center;
+  margin-left: 250px;
+  margin-bottom: 50px;
+}
+
+#news {
+  text-align: center;
+  margin-left: 350px;
+  margin-right: 100px;
+}
+
+#navSection {
+  width: 250px;
+  background-color: #A68F9B;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+}
+
+#social {
+  text-align: center;
+  justify-content: center;
+  margin-left: 250px;
+  background-color: #E8DBCC;
+}
+
+#gifs {
+  text-align: center;
+  justify-content: center;
+  margin-left: 250px;
+  background-color: #E3C1B1;
+}
+
+img {
+  margin: 15px;
+}
+
+a:link {
+  text-decoration: none;
+}
